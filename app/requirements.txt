@@ -1,0 +1,9 @@
+praw
+kafka-python
+python-dotenv
+psycopg2-binary
+dash
+dash-bootstrap-components
+pandas
+plotly
+prometheus_client
