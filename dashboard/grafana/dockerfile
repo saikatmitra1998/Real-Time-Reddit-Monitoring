@@ -1,3 +1,0 @@
-FROM grafana/grafana:latest
-
-CMD ["grafana-server", "--homepath=/usr/share/grafana"]
